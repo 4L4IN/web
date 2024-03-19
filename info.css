@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background: #EB5757;  
+    background: -webkit-linear-gradient(to right, #000000, #EB5757);  
+    background: linear-gradient(to right, #000000, #EB5757);
+    
+}
+h1{
+color: rgb(39, 1, 1);
+font-size: 100 px;
+}
+h3{
+    color: #ffffff;
+    font-size: 55px;
+}
